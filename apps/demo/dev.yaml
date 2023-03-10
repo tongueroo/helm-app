@@ -1,0 +1,6 @@
+replicaCount: 2
+# 869011890257.dkr.ecr.us-west-2.amazonaws.com/demo:kubes-2023-03-09T20-30-24
+image:
+  repository: 869011890257.dkr.ecr.us-west-2.amazonaws.com/demo
+  pullPolicy: Always
+  tag: kubes-2023-03-09T20-30-24
